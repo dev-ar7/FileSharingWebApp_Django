@@ -1,0 +1,84 @@
+body {
+    background: #eaede8;
+    color: #363636;
+    margin-top: 2px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #383838;
+}
+
+ul {
+    margin: auto;
+}
+
+.bg-steel {
+    background-color: #006c96;
+}
+
+.site-header .navbar-nav .nav-link {
+    color: #c3d5bd;
+}
+
+.site-header .navbar-nav .nav-link:hover {
+    color: #cafcb3;
+}
+
+.site-header .navbar-nav .nav-link:active {
+    font-weight: 500;
+}
+
+.content-section {
+    background: #f2f2f2;
+    padding: 10px 20px;
+    border: 1px solid #cfcfcf;
+    border-radius:  3px;
+    margin-bottom: 20px;
+}
+
+.article-title {
+    color: #333333;
+}
+
+a.article-title:hover {
+    color: #0082ba;
+    text-decoration: none;
+}
+
+.article-content {
+    white-space: pre-line;
+}
+
+.article-img {
+    height: 55px;
+    width: 55px;
+    margin-right: 16px;
+}
+
+.article-metadata {
+    padding-bottom: 1px;
+    margin-bottom: 4px;
+    border-bottom: 1px solid #d6d4d4;
+}
+
+.article-metadata a:hover {
+    color: #2b2b2b;
+    text-decoration: none;
+}
+
+.article-svg {
+    width: 25px;
+    height: 25px;
+    vertical-align: middle;
+}
+
+.account-img {
+    height: 115px;
+    width: 115px;
+    margin-right: 20px;
+    margin-bottom: 15px;
+}
+
+.account-heading {
+    font-size: 2.5rem;
+}
